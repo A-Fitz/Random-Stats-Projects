@@ -9,7 +9,3 @@ Next, I took the ZIP code & State abbreviation to find each occurance's county. 
 Now in the next sheet I wanted to sort by cause of death. The only reliable way to do this was to count each occurance of a few key words (fall, bee sting, etc.) in the raw descriptions. Because key words may show up a few times, and I wanted to keep this as simple as possible, this isn't an exact measure; but it is pretty darn close. I simply used a Google Sheets' pie graph for this.
 
 Lastly, I wanted to graph by month of each fatality. This is self explanatory, but the results are pretty interesting. I want to combine this with cause of death when I have time in the future.
-
-
-
-<h3>Here is <a href="https://docs.google.com/spreadsheets/d/1Kjtj9YobdI9CYt29luJYt91c00kMsYqPxVfytDY9sKw/edit?usp=sharing">the link</a> to my Google Sheets, and I have also included a few ways to download the data in this folder.</h3>
